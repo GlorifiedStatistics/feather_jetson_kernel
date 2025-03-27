@@ -14,7 +14,9 @@ Assumes the following have already been installed:
 
 ## Building Kernel
 
-Run ./build_kernel.sh. 
+```bash
+./build_kernel.sh.
+```
 
 ## Current Fixes
 
